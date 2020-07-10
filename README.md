@@ -1,4 +1,9 @@
-### Hi there 👋
+### Olá!!! 🤠
+
+Me chamo João Victor Rocha e sou um estudante de Engenharia de Software na [Universidade Federal de Goiás](https://www.ufg.br/). Tenho trabalhado como desenvolvedor front-end usando Angular e Gatsby, com uma pitada de backend em Java ☕.
+
+#### Onde me encontrar:
+* [Twitter](twitter.com/vixtorocha)
 
 <!--
 **vixtorocha/vixtorocha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
