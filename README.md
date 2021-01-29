@@ -1,6 +1,7 @@
 ### Olá!!! 🤠
 
 Meu nome é João Victor Rocha e eu sou estudante de Engenharia de Software na [Universidade Federal de Goiás](https://www.ufg.br/).  
+
 🌎 Moro em Goiânia, Goiás  
 👨‍💻 Desenvolvedor freelancer  
 🐤 [Twitter](twitter.com/vixtorocha)
