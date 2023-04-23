@@ -5,8 +5,9 @@ Meu nome é João Victor Rocha e eu sou estudante de Engenharia de Software na [
 🌎 Moro em Goiânia, Goiás  
 👨‍💻 Desenvolvedor Full Stack  
 
-* [Twitter](https://www.twitter.com/vixtorocha)
+
 * [LinkedIn](https://www.linkedin.com/in/vixtorocha/)
+* [Twitter](https://www.twitter.com/vixtorocha)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vixtorocha&hide=tsql&langs_count=6&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
